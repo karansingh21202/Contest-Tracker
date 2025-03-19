@@ -57,7 +57,6 @@ This project fetches contest data from the following sources:
   your_api_key
   ```
 
-  Then, update the axios requests in your code to use `process.env.REACT_APP_CLIST_USERNAME` and `process.env.REACT_APP_CLIST_API_KEY`.
 
 ## Running the Application
 
